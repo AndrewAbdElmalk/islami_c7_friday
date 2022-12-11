@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:islami_c7_friday/my_theme.dart';
 import 'package:provider/provider.dart';
-
 import '../providers/sura_provider.dart';
 
 class SuraDetailsScreen extends StatelessWidget {
@@ -57,8 +56,6 @@ class SuraDetailsScreen extends StatelessWidget {
       },
     );
   }
-
-
 }
 
 class SuraDetailsArgs {
